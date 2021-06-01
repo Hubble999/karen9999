@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=next-js-app)](https://github.com/karen9999/next-js-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=frontend-project-lvl3)](https://github.com/karen9999/fromtend-project-lvl3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=aviasales)](https://github.com/karen9999/aviasales)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=layout)](https://github.com/karen9999/HTML_SCSS_BEM-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=HTML_SCSS_BEM-project)](https://github.com/karen9999/HTML_SCSS_BEM-project)
 
 
 
