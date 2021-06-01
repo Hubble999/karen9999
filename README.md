@@ -6,10 +6,6 @@
 <h4>Welcome to my page! I'm Karen, Frontend developer!</h4>
 
 
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 <!---
 karen9999/karen9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
