@@ -11,6 +11,8 @@
 * 🔭 Currently learning **TypeScript**
 
 
+## 🛠  Technologies and tools
+
 <p align="center">
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
