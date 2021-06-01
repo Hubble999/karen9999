@@ -8,13 +8,6 @@
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-- 👋 Hi, I’m @karen9999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-* 🔭 Currently learning **TypeScript**
 
 
 ## 🛠  Technologies and tools
@@ -97,3 +90,5 @@ You can click the Preview link to take a look at your changes.
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
