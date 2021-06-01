@@ -20,3 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&repo=github-readme-stats)](https://github.com/karen9999/shopi)
