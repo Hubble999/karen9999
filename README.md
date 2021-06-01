@@ -64,6 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=formatter)](https://github.com/karen9999/formatter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=shopi)](https://github.com/karen9999/shopi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=next-js-app)](https://github.com/karen9999/next-js-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=frontend-project-lvl3)](https://github.com/karen9999/frontend-project-lvl3)
