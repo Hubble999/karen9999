@@ -63,3 +63,6 @@ You can click the Preview link to take a look at your changes.
 [learning_next_anchor]: #learning-next
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&theme=gotham&repo=formatter)](https://github.com/karen9999/formatter)
+
