@@ -1,3 +1,6 @@
+[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+
+
 - 👋 Hi, I’m @karen9999
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
