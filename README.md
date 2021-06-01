@@ -25,3 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karen9999&repo=shopi)](https://github.com/karen9999/shopi)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
