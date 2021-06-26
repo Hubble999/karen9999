@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<h4>Welcome to my page! I'm Karen, Frontend developer!</h4>
+<h3>Welcome to my page! I'm Karen, Frontend developer!</h4>
 
 
 <!---
